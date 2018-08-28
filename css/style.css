@@ -590,7 +590,7 @@ footer h4 {
     text-transform: uppercase;
     text-shadow: none;
     font-weight: 550;
-    color: #fff;
+    color: white;
 }
 
 #acts {
@@ -690,7 +690,7 @@ ul.sidebar-gallery {
 }
 
 #quote {
-    color: white;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
 }
